@@ -171,6 +171,10 @@ header {
   box-shadow: 0px 7px #1a7940;
 }
 
+.guideBtn {
+  background-color: #3b5998;
+  margin-right: 10px;
+}
 .guide:active {
   position: relative;
   top: 7px;
