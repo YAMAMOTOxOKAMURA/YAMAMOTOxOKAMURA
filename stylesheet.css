@@ -173,8 +173,8 @@ header {
 
 .guideBtn {
   background-color: #3b5998;
-  margin-right: 10px;
 }
+
 .guide:active {
   position: relative;
   top: 7px;
