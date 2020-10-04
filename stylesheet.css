@@ -111,7 +111,7 @@ header {
   background-color: rgba(255,255,255,0.3);
 }
 
-.lesson-wrapper {
+.profile-wrapper {
   height: 580px;
   padding-bottom: 80px;
   padding-left: 5%;
@@ -130,16 +130,16 @@ header {
   font-weight: normal;
 }
 
-.lesson {
+.profile {
   float: left;
   width: 25%;
 }
 
-.lesson-icon {
+.profile-icon {
   position: relative;
 }
 
-.lesson-icon p {
+.profile-icon p {
   position: absolute;
   top: 37%;
   width: 100%;
@@ -208,12 +208,12 @@ footer {
 }
 
 @media all and (max-width: 1000px) {
-  .lesson {
+  .profile {
     width: 50%;
     margin-bottom: 50px;
   }
 
-  .lesson-wrapper {
+  .profile-wrapper {
     height: 990px;
   }
 
@@ -261,11 +261,11 @@ footer {
     font-size: 14px;
   }
 
-  .lesson {
+  .profile {
     width: 100%;
   }
 
-  .lesson-wrapper {
+  .profile-wrapper {
     height: 1700px;
   }
 
